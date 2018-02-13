@@ -1,2 +1,0 @@
-# insightDataEngineering_donation_analytics
-Insight Data Engineering Fellowship Challenge
